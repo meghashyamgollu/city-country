@@ -19,13 +19,17 @@
     {
       "country": "Germany",
       "id": 5
+    },
+    {
+      "country": "France",
+      "id": 6
     }
   ],
   "cities": [
     {
-      "city": "Delhi",
-      "population": 9000000,
+      "city": "Mumbai",
       "country": "India",
+      "population": 9000000,
       "id": 1
     },
     {
