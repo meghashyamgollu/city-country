@@ -1,0 +1,56 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "China",
+      "id": 2
+    },
+    {
+      "country": "Mexico",
+      "id": 3
+    },
+    {
+      "country": "England",
+      "id": 4
+    },
+    {
+      "country": "Germany",
+      "id": 5
+    }
+  ],
+  "cities": [
+    {
+      "city": "Delhi",
+      "population": 9000000,
+      "country": "India",
+      "id": 1
+    },
+    {
+      "city": "Hong Kong",
+      "country": "China",
+      "population": 12000000,
+      "id": 2
+    },
+    {
+      "city": "Kolkata",
+      "population": 8000000,
+      "country": "India",
+      "id": 3
+    },
+    {
+      "city": "London",
+      "population": 1250000,
+      "country": "England",
+      "id": 5
+    },
+    {
+      "city": "Berlin",
+      "population": 500000,
+      "country": "Germany",
+      "id": 6
+    }
+  ]
+}
